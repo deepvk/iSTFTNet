@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: iSTFTNet
+message: >-
+  If you use this software, please cite it using the  
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daria
+    family-names: Diatlova
+    email: d.dyatlova@vk.team.com
+    affiliation: 'deepvk, VK'
+identifiers:
+  - type: url
+    value: 'https://github.com/deepvk/istft-net'
+    description: 'Repository '
+repository-code: 'https://github.com/deepvk/istft-net'
+abstract: >-
+  Code of iSTFTNet Vocoder and the weights of the trained
+  vocoder on Russian Speech corpus. 
+keywords:
+  - TTS
+license: Apache-2.0
