@@ -135,16 +135,5 @@ year={2022},
 }
 ```
 
-```
-@misc{deepvk2023istft,
-  author = {Daria, Diatlova},
-  title = {istft-net},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/deepvk/istft-net}}
-}
-```
-
 ## References
 * https://github.com/rishikksh20/iSTFTNet-pytorch
