@@ -3,7 +3,7 @@ This repository is based on the [opensource implementation](https://github.com/r
 
 - shared the weights of the model we trained on robust internal dataset consists of `Russian speech` recorded in different acoustic conditions with sample rate `22050 Hz`;
 - added `loguru` & `wandb`; 
-- added `Docerfile` for faster env set up;
+- added `Dockerfile` for faster env set up;
 - updated the code with several scripts to `compute mel-spectrograms` and `convert the model to .onnx`.
 
 Note: according to our tests `iSTFT Net` shows even higher synthesis quality than [`HiFi GAN`](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/HiFiGAN), with a 2x acceleration of RTF.
